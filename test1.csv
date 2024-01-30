@@ -1,5 +1,8 @@
-﻿Name,Age,Experience
-Graeme,26,10
-Rach,25,2
-Noah,28,5
-Taylor,32,7
+﻿Name,Age,Experience,Salary
+Graeme,26,10,1000000
+Rach,25,2,1000001
+Noah,28,5,50000
+Taylor,32,7,60000
+John,28,,60000
+Hunt,,2,30000
+Rice,,,40000
